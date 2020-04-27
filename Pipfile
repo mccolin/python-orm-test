@@ -14,5 +14,4 @@ allow_prereleases = true
 [dev-packages]
 
 [packages]
-pony = "==0.7.13"
-psycopg2-binary = {version = "==2.8.4", sys_platform = "== 'darwin'"}
+pony = "*"
